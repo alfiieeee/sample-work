@@ -40,7 +40,7 @@ else:
 
     for i in range(100):
    
-        latest_iteration.text(f'Loading...please have patient {i+1}% ')
+        latest_iteration.text(f'Please be patient or fuck off.... {i+1}% ')
         bar.progress(i + 1)
         time.sleep(0.1)
 
